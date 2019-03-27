@@ -1,4 +1,4 @@
-# Phobos_Analysis
+# Phobos Analysis
 Phobos Ransomware Analysis
 
 # Password for phobos_sample.zip --> "infected"
