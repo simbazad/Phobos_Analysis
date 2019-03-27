@@ -5,7 +5,7 @@ Phobos Ransomware Analysis
 
 # Update : 
 
-Apparently this phobos variant searches for C:\k.txt and extract its TEA key so it can decrypt its full payload.
+Apparently this phobos variant searches for C:\k.txt to extract its TEA key so it can decrypt its full payload.
 
 ![img](pic/3.png?raw=true "img")
 
