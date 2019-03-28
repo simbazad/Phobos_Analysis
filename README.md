@@ -30,5 +30,7 @@ so on the JNZ instruction we will jump and get TerminateProcess, lets patch it a
 
 As you can see the malware scrumble the file before deleting it so recovering k.txt is probably impossible.
 
+# https://www.virustotal.com/#/file/8b0ee66b23e6a3ea684254df40a8a443103324b5c6bec3f2872ea1441a2024da/detection
+
 #If someone holds both the malware and the key please share it!
 
